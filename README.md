@@ -12,6 +12,8 @@ chooseBestScramble.py: code for choosing the shuffled sequence with the least si
 
 filterFastaFile.py: filter a fasta file based on the fasta headers
 
+predictMPRASequences.sh: make open chromatin predictions for gMPRA sequences
+
 ## Dependencies
 bedtools version 2.26.0
 
@@ -26,3 +28,5 @@ numpy version 1.13.3
 biopython version 1.70
 
 twoBitToFa (UCSC Genome Browser utility)
+
+OCROrthologPrediction (https://github.com/pfenninglab/OCROrthologPrediction)
