@@ -30,3 +30,13 @@ biopython version 1.70
 twoBitToFa (UCSC Genome Browser utility)
 
 OCROrthologPrediction (https://github.com/pfenninglab/OCROrthologPrediction)
+
+## Contacts
+Andreas Pfenning (apfenning@cmu.edu)
+
+Irene Kaplow (ikaplow@cs.cmu.edu)
+
+Ashley Brown (arb1@andrew.cmu.edu)
+
+## Reference
+Brown AR, Fox GA, Kaplow IM, Lawler AJ, Phan BN, Ramamurthy E, May GE, Wirthlin ME, Chen Z, Su Q, McManus CJ, Pfenning AR.  An in vivo massively parallel platform for deciphering tissue-specific regulatory function.  biorXiv.  https://www.biorxiv.org/content/10.1101/2022.11.23.517755v1 (2022).
