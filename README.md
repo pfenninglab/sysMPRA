@@ -14,6 +14,8 @@ filterFastaFile.py: filter a fasta file based on the fasta headers
 
 predictMPRASequences.sh: make open chromatin predictions for gMPRA sequences
 
+arrayProc: directory with scripts for processing MPRA data
+
 ## Dependencies
 bedtools version 2.26.0
 
@@ -21,7 +23,7 @@ meme suite version 4.12.0
 
 liftOver (UCSC Genome Browser utility)
 
-python version 2.7.17
+python version 2.7.17 (chooseBestScramble.py also works with python version 3.7.6)
 
 numpy version 1.13.3
 
