@@ -1,5 +1,5 @@
-# WhAMPRA
-This repository is for **Wh**ole **A**nimal **MPRA** code.
+# sysMPRA
+This repository is for **sys**temic **MPRA** code.
 
 ## Scripts
 designMPRA1Sequences.sh: code for designing sequences related to MEF2C binding for the gMPRA
