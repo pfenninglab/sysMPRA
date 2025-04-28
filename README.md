@@ -41,4 +41,4 @@ Irene Kaplow (ikaplow@cs.cmu.edu)
 Ashley Brown (arb1@andrew.cmu.edu)
 
 ## Reference
-Brown AR, Fox GA, Kaplow IM, Lawler AJ, Phan BN, Ramamurthy E, May GE, Wirthlin ME, Chen Z, Su Q, McManus CJ, Pfenning AR.  An in vivo massively parallel platform for deciphering tissue-specific regulatory function.  biorXiv.  https://www.biorxiv.org/content/10.1101/2022.11.23.517755v1 (2022).
+Brown AR, Fox GA*, Kaplow IM*, Lawler AJ, Phan BN, Gadey L, Wirthlin ME, Ramamurthy E, May GE, Chen Z, Su Q, McManus CJ, van der Weerd R, Pfenning AR.  An in vivo systemic massively parallel platform for deciphering animal tissue-specific regulatory function.  Frontiers in Genetics, 16:1533900, 2025.  https://pubmed.ncbi.nlm.nih.gov/40270544/.
